@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Racing+Sans+One:regular);
+h1 {
+    font-family: 'racing sans one';
+    font-size: 40px;
+    text-shadow: 4px 4px 4px #2c2929;
+}
+
+a{
+    color: limegreen
+}
+@import url(https://fonts.googleapis.com/css?family=Noto+Serif+Ethiopic:100,200,300,regular,500,600,700,800,900);
+article {
+    font-family: 'Noto Serif Ethiopic';
+    font-size: 30px;
+}
